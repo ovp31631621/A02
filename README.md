@@ -34,7 +34,7 @@ Step 5: Push Changes
     Select the correct repository and branch.
     Click "Push".
 
-**Part 2: Glossary**
+**Part 2: Glossary** 
 
     **Branch**: A parallel version of a repository, allowing separate development without affecting the main codebase.
     **Clone**: To create a local copy of a repository from a remote source.
