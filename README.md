@@ -10,8 +10,7 @@ Step 1: Install WebStorm
 Step 2: Set Up Git in WebStorm
 
     Install Git from the official Git website.
-    Open WebStorm and navigate to File > Settings.
-    Go to Version Control > Git.
+    Open WebStorm and go to File > Settings > Version Control > Git.
     Verify or specify the path to the Git executable.
     Click "Apply" and then "OK".
 
@@ -24,7 +23,7 @@ Step 3: Clone a Repository
 
 Step 4: Make Changes/Commit
 
-    Open the files you want to modify in WebStorm.
+    Open the file.
     Make changes and save them.
     Go to VCS > Git > Commit File    
     Enter a commit message and click "Commit".
